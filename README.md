@@ -7,6 +7,3 @@ Anggota Kelompok:
 
 Tema project: Sosial Media
 
-ERD: Public ->ERD
-
-Link Demo: https://demososmed.rumahukmkohil.biz.id/
